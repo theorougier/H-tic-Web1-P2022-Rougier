@@ -12,23 +12,8 @@ h1 {
   width: 100%;
 }
 
-.left_button {
-  font-size: 24px;
-  display: inline-block;
-  width: 200px;
-  line-height: 50px;
-  text-align: center;
-  border-width: 5px;
-  border-color: black;
-  border-style: solid;
-  border-radius: 10px;
-  background-color: #3c3c3c;
-  text-decoration: none;
-  color: #00ff92;
-}
-
-.right_button {
-  font-size: 24px;
+.button {
+  font-size: 12px;
   display: inline-block;
   width: 200px;
   line-height: 100px;
@@ -42,19 +27,8 @@ h1 {
   color: #00ff92;
 }
 
-.middle_button {
-  font-size: 24px;
-  display: inline-block;
-  width: 200px;
-  line-height: 100px;
-  text-align: center;
-  border-width: 5px;
-  border-color: black;
-  border-style: solid;
-  border-radius: 10px;
-  background-color: #3c3c3c;
-  text-decoration: none;
-  color: #00ff92;
+nav {
+  margin-left: 25%;
 }
 
 .title {
