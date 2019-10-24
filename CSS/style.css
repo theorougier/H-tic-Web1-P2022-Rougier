@@ -13,36 +13,45 @@ h1 {
 }
 
 .button {
-  font-size: 12px;
+  font-size: 16px;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
   display: inline-block;
+  margin-right: 10%;
   width: 200px;
   line-height: 100px;
   text-align: center;
-  border-width: 5px;
-  border-color: black;
-  border-style: solid;
   border-radius: 10px;
   background-color: #3c3c3c;
   text-decoration: none;
   color: #00ff92;
 }
 
+.button:hover {
+  width: 210px;
+}
+
 nav {
-  margin-left: 25%;
+  margin-top: -1%;
+  margin-left: 17%;
 }
 
 .title {
   color: #00ff92;
   font-size: 72px;
   text-align: center;
+  margin-top: 2%;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  border-bottom: solid #00ff92;
+  border-top: solid #00ff92;
 }
 
 .base {
   font-size: 14px;
   text-align: left;
-  margin-right: 34%;
-  margin-left: 34%;
-  color: #3c3c3c;
+  margin-right: 25%;
+  margin-left: 26%;
+  color: #7e7d7d;
+  line-height: 1.5;
 }
 
 .vid {
